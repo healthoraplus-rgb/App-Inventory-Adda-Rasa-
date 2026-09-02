@@ -1,0 +1,8 @@
+{
+  "name": "Remix adda-rasa-kjd",
+  "description": "Imported from GitHub: healthoraplus-rgb/adda-rasa-kjd",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
